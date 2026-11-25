@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1{
+  color: pink;
+  font-size: 40px;
+}
+
+p{
+  color: #ccc;
+  font-size: 18px;
+}
+
+button{
+  background-color: pink;
+  color: black;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+a{
+  color: pink;
+  text-decoration: none;
+}
